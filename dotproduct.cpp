@@ -13,7 +13,7 @@ int main() {
         dot += a[i] * b[i];
     }
 
-    cout << "Dot Product = " << dot << endl;
+    cout << "Dot Product is as = " << dot << endl;
 
     return 0;
 }
